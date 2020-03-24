@@ -6,7 +6,7 @@
 
 **TensorFlow.NET：** https://github.com/SciSharp/TensorFlow.NET
 
-**SciSharp-Stack-Examples： ** https://github.com/SciSharp/SciSharp-Stack-Examples
+**SciSharp-Stack-Examples：** https://github.com/SciSharp/SciSharp-Stack-Examples
 
 **TensorFlow.NET-Tutorials：** https://github.com/SciSharp/TensorFlow.NET-Tutorials
 
