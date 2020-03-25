@@ -245,7 +245,7 @@ namespace TF_Test
 
 最后，简单介绍一下Eager模式的矩阵运算，矩阵运算有 tf.diag()、tf.matmul()、tf.batch_matmul()等，这里主要说明下矩阵乘法 tf.matmul()。
 
-矩阵乘法的运算公式是这样的，设 **A** 为 ![img](TensorFlow.NET教程.assets/902397dda144ad34da6756f9d6a20cf430ad85f0.png) 的矩阵， **B** 为 ![img](TensorFlow.NET教程.assets/a2cc7cd98d1001e9a8aac571be0e7bec54e7973e.png) 的矩阵，那么称 ![img](TensorFlow.NET教程.assets/0824ab18972bd407704270837d899e510eb309c2.png) 的矩阵 **C** 为矩阵 **A** 与 **B** 的乘积，记作 ![img](TensorFlow.NET教程.assets/bd315c6034a85edf8d995c5d4f540923dd5475b2.png) ，其中矩阵 **C **中的第 ![img](TensorFlow.NET教程.assets/4e4a20a4462309f7c1357d6c740e0cf3d7cad672.png) 行第 ![img](TensorFlow.NET教程.assets/d62a6059252dd42a4f5fd1d5053b5bb5c9eab87e.png) 列元素可以表示为：
+矩阵乘法的运算公式是这样的，设 **A** 为 m × p 的矩阵， **B** 为 p × n 的矩阵，那么称 m × n 的矩阵 **C** 为矩阵 **A** 与 **B** 的乘积，记作 C = A B ，其中矩阵 **C** 中的第 i 行第 j 列元素可以表示为：
 
 ![img](TensorFlow.NET教程.assets/8ad4b31c8701a18bd6fe9b5e992f07082838fe8e.png)
 
