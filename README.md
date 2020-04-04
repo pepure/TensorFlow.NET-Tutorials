@@ -6,31 +6,23 @@
 
 ## [1. TensorFlow.NET介绍](<https://github.com/SciSharp/TensorFlow.NET-Tutorials/blob/master/二、TensorFlow.NET API-1. TensorFlow.NET介绍.md>)
 
-## 2. 数据类型
+## 2. 数据类型与张量详解
 
-## 3. 张量类型
+## [3. Eager Mode](<https://github.com/SciSharp/TensorFlow.NET-Tutorials/blob/master/二、TensorFlow.NET API-3. Eager Mode.md>)
 
-## 4. 数学运算
+## 4. 数据流队列
 
-## [5. Eager Mode](<https://github.com/SciSharp/TensorFlow.NET-Tutorials/blob/master/二、TensorFlow.NET API-5. Eager Mode.md>)
+## 5. 优化、梯度和反向传播
 
-## 6. 常量、变量、占位符和节点操作
+## 6. Train相关
 
-## 7. 计算图和会话
+## 7. 动态图模式
 
-## 8. 数据流队列
+## 8. Tensorboard和Summary类
 
-## 9. 优化、梯度和反向传播
+## 9. CheckPoint操作
 
-## 10. Train相关
-
-## 11. 动态图模式
-
-## 12. Tensorboard和Summary类
-
-## 13. CheckPoint操作
-
-## 14. 神经网络相关
+## 10. 神经网络相关
 
 # 三、工业应用与案例
 
